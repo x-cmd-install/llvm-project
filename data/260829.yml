@@ -1,0 +1,111 @@
+about:
+  description: The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
+  license: NOASSERTION
+  homepage: http://llvm.org
+  head: d34be0f
+  archived: false
+  latestVersion: llvmorg-23.1.0
+  collectedAt: 2026-08-29T07:08:14Z
+timeline:
+  created: 2016-12-07
+  lastCommit: 2026-08-29
+  lastRelease: 2026-08-25
+popularity:
+  star: 39995
+  watcher: 564
+  fork: 18418
+  release: 160
+  contributor: 6426
+  pullRequest: 21123
+  issue: 98273
+language:
+  LLVM: 750736991
+  C++: 553463667
+  C: 224641597
+  Assembly: 212369907
+  MLIR: 30910635
+  Python: 15814165
+  Fortran: 14014739
+  FIRRTL: 5801526
+  CMake: 5043241
+  Objective-C: 4497620
+  HLSL: 3437816
+  HTML: 2280661
+  Starlark: 1774293
+  HIP: 1601740
+  Cuda: 1485095
+  Objective-C++: 1235411
+  SWIG: 415343
+  OCaml: 339623
+  JavaScript: 292793
+  Shell: 256240
+  Perl: 183797
+  Awk: 127345
+  Makefile: 115114
+  TypeScript: 113529
+  Pawn: 85608
+  Jupyter Notebook: 72939
+  Emacs Lisp: 68498
+  CSS: 65309
+  Roff: 60897
+  Batchfile: 53273
+  NASL: 39842
+  Mustache: 38258
+  Groovy: 34567
+  Vim Script: 29263
+  Dockerfile: 23289
+  Tree-sitter Query: 14568
+  Lua: 13065
+  M: 10547
+  GDB: 8450
+  Nix: 7135
+  Cool: 5401
+  Rust: 5149
+  MATLAB: 5049
+  Linker Script: 3950
+  TeX: 2141
+  Go Template: 1848
+  Wolfram Language: 1685
+  AMPL: 1626
+  AppleScript: 1429
+  POV-Ray SDL: 861
+  DTrace: 334
+  Limbo: 306
+  Swift: 271
+  PHP: 64
+  RPC: 28
+  Mercury: 14
+totalLine: 1831608552
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 2
+    mergedPR: 3345
+    openPR: 1671
+    closedIssue: 331
+    openIssue: 707
+    commit: 4087
+  last90d:
+    since: 2026-05-31
+    release: 5
+    mergedPR: 11469
+    openPR: 3101
+    closedIssue: 1294
+    openIssue: 1844
+    commit: 12623
+  last180d:
+    since: 2026-03-02
+    release: 11
+    mergedPR: 22502
+    openPR: 4504
+    closedIssue: 2680
+    openIssue: 3187
+    commit: 24301
+  last360d:
+    since: 2025-09-03
+    release: 23
+    mergedPR: 40505
+    openPR: 5971
+    closedIssue: 5993
+    openIssue: 5415
+    commit: 44956
